@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CityMig</string>
+    <string name="data"> {
+	"countries": [{
+		"name": "USA",
+		"capital": {
+			"name": "Washington",
+			"people": 1200000
+		},
+		"cities": [{
+			"name": "New York",
+			"people": 6300000
+		}, {
+			"name": "Los Angeles",
+			"people": 4500000
+		}]
+	}, {
+		"name": "Kazakhstan",
+		"capital": {
+			"name": "Astana",
+			"people": 870000
+		},
+		"cities": [{
+			"name": "Almaty",
+			"people": 1670000
+		}, {
+			"name": "Aktobe",
+			"people": 560000
+		}]
+	}, {
+		"name": "India",
+		"capital": {
+			"name": "Delрi",
+			"people": 14100000
+		},
+		"cities": [{
+			"name": "Mumbai",
+			"people": 17000000
+		}]
+	}]
+}</string>
+</resources>
